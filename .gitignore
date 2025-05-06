@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore the uploads directory
+uploads/
+
+# Ignore PHP session files
+/session/
